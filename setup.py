@@ -31,10 +31,10 @@ class PyTest(TestCommand):
 
 setup(
     name='easychain',
-    url='https://github.com/davecan/easychain',
-    download_url='https://github.com/davecan/easychain/tarball/{0!s}/'.format(
+    url='https://github.com/valder/easychain',
+    download_url='https://github.com/valder/easychain/tarball/{0!s}/'.format(
         easychain.__version__),
-    author="davecan, valdergallo",
+    author="valdergallo, davecan",
     author_email='valdergallo@gmail.com',
     keywords='Blockchain',
     description='Simple library to easily export blockchain',
