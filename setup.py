@@ -36,7 +36,7 @@ setup(
         easychain.__version__),
     author="valdergallo, davecan",
     author_email='valdergallo@gmail.com',
-    keywords='Blockchain',
+    keywords='blockchain, bitcoin',
     description='Simple library to easily export blockchain',
     license='MIT',
     long_description=readme(),

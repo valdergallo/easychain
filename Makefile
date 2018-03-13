@@ -11,5 +11,5 @@ test:
 
 register:
 	python setup.py register
-    python setup.py build bdist_wheel bdist
-    twine upload dist/*
+	python setup.py build bdist_wheel bdist
+	twine upload dist/*
